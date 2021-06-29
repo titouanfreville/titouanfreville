@@ -11,3 +11,8 @@ I'm currently working as a back end developper in Go since 2020.
 I love to learn new things every day and I often use langage I don't know in custom project and I recently discovered code wars and coding game so I take some time to play with it :)
 
 I host some open source project on github: https://github.com/elmagician?type=source and colaborated on public project hosted by gitlab: https://gitlab.com/titouanfreville, https://gitlab.com/supinfo-bots.
+
+======
+Activated vigilante mode since June, 30th 2021. 
+
+Any commit mark as unsigned before this period should be valid.
