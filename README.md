@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=titouanfreville&theme=onedark)](https://github.com/titouanfreville/github-profile-trophy)
+
 [Code Wars level: ![Code Wars](https://www.codewars.com/users/switchelven/badges/micro)](https://www.codewars.com/users/switchelven) 
 
 [Coding Game](https://www.codingame.com/profile/4a90e43cd348ac7aa183c0843cfc2a641283514)
